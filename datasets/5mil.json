@@ -63,11 +63,11 @@
     "dimensions": []
   },
   "versionTag": {
-    "versionNumber": 0,
+    "versionNumber": 1,
     "lastModifiedBy": {
       "login": "nate.kim@dataiku.com"
     },
-    "lastModifiedOn": 1697725113982,
+    "lastModifiedOn": 1697725146917,
     "extendedProperties": {}
   },
   "creationTag": {
@@ -94,8 +94,23 @@
     }
   },
   "schema": {
-    "columns": [],
-    "userModified": true
+    "columns": [
+      {"name":"Region","type":"string"},
+      {"name":"Country","type":"string"},
+      {"name":"Item Type","type":"string"},
+      {"name":"Sales Channel","type":"string"},
+      {"name":"Order Priority","type":"string"},
+      {"name":"Order Date","type":"string"},
+      {"name":"Order ID","type":"bigint"},
+      {"name":"Ship Date","type":"string"},
+      {"name":"Units Sold","type":"bigint"},
+      {"name":"Unit Price","type":"double"},
+      {"name":"Unit Cost","type":"double"},
+      {"name":"Total Revenue","type":"double"},
+      {"name":"Total Cost","type":"double"},
+      {"name":"Total Profit","type":"double"}
+    ],
+    "userModified": false
   },
   "dkuProperties": [],
   "metrics": {
