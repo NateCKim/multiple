@@ -41,11 +41,11 @@
   },
   "labels": [],
   "versionTag": {
-    "versionNumber": 1,
+    "versionNumber": 2,
     "lastModifiedBy": {
       "login": "nate.kim@dataiku.com"
     },
-    "lastModifiedOn": 1697725751194,
+    "lastModifiedOn": 1697725752844,
     "extendedProperties": {}
   },
   "creationTag": {
