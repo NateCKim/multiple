@@ -4,10 +4,12 @@
   "optionalDependencies": false,
   "params": {
     "envSelection": {
-      "envMode": "INHERIT"
+      "envMode": "INHERIT",
+      "envName": "37"
     },
     "containerSelection": {
-      "containerMode": "INHERIT"
+      "containerMode": "EXPLICIT_CONTAINER",
+      "containerConf": "eks-default"
     },
     "skipPrerunValidate": false
   },
@@ -40,11 +42,11 @@
   },
   "labels": [],
   "versionTag": {
-    "versionNumber": 2,
+    "versionNumber": 3,
     "lastModifiedBy": {
       "login": "nate.kim@dataiku.com"
     },
-    "lastModifiedOn": 1697725120603,
+    "lastModifiedOn": 1697725207969,
     "extendedProperties": {}
   },
   "creationTag": {
