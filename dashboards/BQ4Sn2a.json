@@ -1,0 +1,36 @@
+{
+  "pages": [
+    {
+      "id": "eEWbdTn",
+      "grid": {
+        "tiles": []
+      },
+      "showTitle": false
+    }
+  ],
+  "owner": "nate.kim@dataiku.com",
+  "listed": true,
+  "name": "large\u0027s default dashboard",
+  "showGrid": true,
+  "versionTag": {
+    "versionNumber": 0,
+    "lastModifiedBy": {
+      "login": "nate.kim@dataiku.com"
+    },
+    "lastModifiedOn": 1697722229780,
+    "extendedProperties": {}
+  },
+  "creationTag": {
+    "versionNumber": 0,
+    "lastModifiedBy": {
+      "login": "nate.kim@dataiku.com"
+    },
+    "lastModifiedOn": 1697722229780,
+    "extendedProperties": {}
+  },
+  "tags": [],
+  "customFields": {},
+  "checklists": {
+    "checklists": []
+  }
+}
