@@ -191,6 +191,14 @@
       "checks": []
     }
   },
+  "versionTag": {
+    "versionNumber": 0,
+    "lastModifiedBy": {
+      "login": "nate.kim@dataiku.com"
+    },
+    "lastModifiedOn": 1697725694355,
+    "extendedProperties": {}
+  },
   "creationTag": {
     "versionNumber": 0,
     "lastModifiedBy": {
