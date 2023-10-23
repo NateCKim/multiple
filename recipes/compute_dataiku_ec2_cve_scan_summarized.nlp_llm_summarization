@@ -4,11 +4,13 @@
   "targetLength": 3,
   "completionSettings": {
     "stopSequences": [],
-    "temperature": 0.0
+    "temperature": 0
   },
   "controlTargetLength": false,
   "targetLengthUnit": "SENTENCE",
   "huggingFaceMaxTokens": 300,
   "huggingFaceMinTokens": 50,
+  "llmId": "huggingfacelocal:sdfsadf:databricks/dolly-v2-7b:TEXT_GENERATION_DOLLY:promptDriven\u003dtrue",
+  "inputColumn": "Vulnerability Title",
   "numOverlapTokens": 5
 }
