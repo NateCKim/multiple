@@ -1,0 +1,17 @@
+{
+  "completionSettings": {
+    "stopSequences": [],
+    "temperature": 0.0
+  },
+  "prompt": {
+    "promptTemplateInputs": [],
+    "resultValidation": {
+      "performContentModeration": false,
+      "requiredJSONObjectKeys": [],
+      "expectedFormat": "NONE",
+      "forbiddenTerms": []
+    },
+    "structuredPromptExamples": [],
+    "promptMode": "PROMPT_TEMPLATE_STRUCTURED"
+  }
+}
