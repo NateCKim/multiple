@@ -1,0 +1,14 @@
+{
+  "maxNumSplitLevels": 3,
+  "specialTokensSafetyFactor": 4,
+  "targetLength": 3,
+  "completionSettings": {
+    "stopSequences": [],
+    "temperature": 0.0
+  },
+  "controlTargetLength": false,
+  "targetLengthUnit": "SENTENCE",
+  "huggingFaceMaxTokens": 300,
+  "huggingFaceMinTokens": 50,
+  "numOverlapTokens": 5
+}
