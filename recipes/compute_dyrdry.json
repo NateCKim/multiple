@@ -4,7 +4,8 @@
   "optionalDependencies": false,
   "params": {
     "envSelection": {
-      "envMode": "INHERIT"
+      "envMode": "EXPLICIT_ENV",
+      "envName": "pokemon"
     },
     "containerSelection": {
       "containerMode": "INHERIT"
@@ -31,11 +32,11 @@
   },
   "labels": [],
   "versionTag": {
-    "versionNumber": 1,
+    "versionNumber": 2,
     "lastModifiedBy": {
       "login": "nate.kim@dataiku.com"
     },
-    "lastModifiedOn": 1698023022762,
+    "lastModifiedOn": 1698023036723,
     "extendedProperties": {}
   },
   "creationTag": {
