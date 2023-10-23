@@ -192,11 +192,11 @@
     }
   },
   "versionTag": {
-    "versionNumber": 0,
+    "versionNumber": 1,
     "lastModifiedBy": {
       "login": "nate.kim@dataiku.com"
     },
-    "lastModifiedOn": 1697725694355,
+    "lastModifiedOn": 1698025895995,
     "extendedProperties": {}
   },
   "creationTag": {
